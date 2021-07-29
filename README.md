@@ -49,22 +49,18 @@ Estas son las tecnologías que estoy aprendiendo y aplicando:
   </a>
 </p>
 
-
-
-
-
+  
+  
+---
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teootoledo&show_icons=true&locale=en&layout=compact" alt="teootoledo" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teootoledo&show_icons=true&theme=dark&locale=en" alt="teootoledo" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teootoledo&theme=dark" alt="teootoledo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teootoledo&show_icons=true&locale=en&layout=compact" alt="teootoledo" />
+  &nbsp;
+&nbsp;
+&nbsp;
 </p>
 
-
+  
+  
 
 
 
