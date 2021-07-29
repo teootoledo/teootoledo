@@ -47,10 +47,14 @@ Estas son las tecnologías que estoy aprendiendo y aplicando:
   <a href="https://discord.gg/teootoledo#1633" >
      <img align="center" src="./Discord.png" alt="Discord" height="30" />
   </a>&nbsp;
+  <a href="mailto:teootoledo@gmail.com?Subject=Quiero%20contactarte" >
+     <img align="center" src="./Mail.png" alt="Email" height="30" />
+  </a>&nbsp;
 </p>
 
-  
-  
+
+
+
 ---
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teootoledo&show_icons=true&locale=en&layout=compact" alt="teootoledo" />
@@ -59,7 +63,7 @@ Estas son las tecnologías que estoy aprendiendo y aplicando:
 &nbsp;
 </p>
 
-  
+
   
 
 
