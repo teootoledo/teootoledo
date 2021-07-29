@@ -1,4 +1,4 @@
-![cover](/Users/teotoledo/Documents/GitHub/ADOX/teootoledo/cover.png)
+![cover](cover.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teootoledo&label=Profile%20views&color=ff612d&style=flat" alt="teootoledo" /> </p>
 
