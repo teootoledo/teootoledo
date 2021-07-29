@@ -21,10 +21,10 @@ Estas son las tecnologías que estoy aprendiendo y aplicando:
   <img align="center" src="./JS.png" alt="Javascript" height="30" />
   <img align="center" src="./HTML5.png" alt="HTML5" height="30" />
   <img align="center" src="./CSS.png" alt="CSS" height="30" />
-  <img align="center" src="./SASS.png" alt="SASS" height="30" />
+  <img align="center" src="./Sass.png" alt="SASS" height="30" />
   <img align="center" src="./Git.png" alt="Git" height="30" />
   <img align="center" src="./Storybook.png" alt="Storybook" height="30" />
-  <img align="center" src="./Github.png" alt="Github" height="30" />
+  <img align="center" src="./GitHub.png" alt="Github" height="30" />
 </p>
 
 
@@ -39,7 +39,7 @@ Estas son las tecnologías que estoy aprendiendo y aplicando:
      <img align="center" src="./StackOverflow.png" alt="Stack Overflow" height="30" />
   </a>
   <a href="https://wa.me/5491131641637?text=Hola%20Teo!%20Vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20contactarte!" >
-     <img align="center" src="./WhatsApp.png" alt="WhatsApp" height="30" />
+     <img align="center" src="./Whatsapp.png" alt="WhatsApp" height="30" />
   </a>
   <a href="https://instagram.com/teootoledo" >
      <img align="center" src="./Instagram.png" alt="Instagram" height="30" />
