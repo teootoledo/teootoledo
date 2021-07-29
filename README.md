@@ -1,32 +1,72 @@
-<h1 align="center">Hi 👋, I'm Teo Toledo</h1>
-<h3 align="center">A Information Systems Engineering student at UTN FRBA.</h3>
+![cover](/Users/teotoledo/Documents/GitHub/ADOX/teootoledo/cover.png)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=teootoledo&label=Profile%20views&color=ff612d&style=flat" alt="teootoledo" /> </p>
+
+## Hola, soy Teo! 👋 
+
+Trabajo como desarrollador frontend en _ADOX S.A. 🏢_ y me encuentro estudiando Ingeniería en Sistemas de Información en la _UTN Facultad Regional Buenos Aires_ 📚🇦🇷.
+
+En mi formación secundaria me especialicé como Técnico Electrónico en la _EEST Nº8 de Haedo 🏫_. En el transcurso de estos años fui enfocando mi carrera al desarrollo de software, siendo este mi principal interés. Busco aprender continuamente y aplicar las nuevas tecnologías disponibles para los proyectos en los que participo.
+
+Trabajé como diseñador en el _Open Innovation Center_ de ADOX, lo que incrementó mis habilidades referidas al ✏️ diseño, gracias a la transferencia de conocimiento de mis pares.
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=teootoledo&label=Profile%20views&color=0e75b6&style=flat" alt="teootoledo" /> </p>
+##### Tecnologías 💻
 
-<p align="center"> <a href="https://twitter.com/teootoledo" target="blank"><img src="https://img.shields.io/twitter/follow/teootoledo?logo=twitter&style=for-the-badge" alt="teootoledo" /></a> </p>
+Estas son las tecnologías que estoy aprendiendo y aplicando:
 
-- 🏢 I’m currently working at [ADOX S.A.](https://adox.com.ar/)
-
-- 🌱 I’m currently learning **JavaScript, ElectronJS, React and Express.**
-
-- 💬 Ask me about **C, and C++.**
-
-- 📫 How to reach me **teootoledo@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/teootoledo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="teootoledo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/teo-toledo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="teo-toledo" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/teo-toledo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="teo-toledo" height="30" width="40" /></a>
-<a href="https://fb.com/teootoledo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="teootoledo" height="30" width="40" /></a>
-<a href="https://instagram.com/teootoledo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="teootoledo" height="30" width="40" /></a>
-<a href="https://medium.com/@teootoledo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@teootoledo" height="30" width="40" /></a>
-<a href="https://discord.gg/teootoledo#1633" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="teootoledo#1633" height="30" width="40" /></a>
+  <img align="center" src="./React.png" alt="React" height="30" />
+  <img align="center" src="./JS.png" alt="Javascript" height="30" />
+  <img align="center" src="./HTML5.png" alt="HTML5" height="30" />
+  <img align="center" src="./CSS.png" alt="CSS" height="30" />
+  <img align="center" src="./SASS.png" alt="SASS" height="30" />
+  <img align="center" src="./Git.png" alt="Git" height="30" />
+  <img align="center" src="./Storybook.png" alt="Storybook" height="30" />
+  <img align="center" src="./Github.png" alt="Github" height="30" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teootoledo&show_icons=true&locale=en&layout=compact" alt="teootoledo" /></p>
+
+##### Ponete en contacto conmigo 📞
+
+<p align="left">
+  <a href="https://linkedin.com/in/teo-toledo" >
+     <img align="center" src="./LinkedIn.png" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://stackoverflow.com/users/13508928/teo-toledo" >
+     <img align="center" src="./StackOverflow.png" alt="Stack Overflow" height="30" />
+  </a>
+  <a href="https://wa.me/5491131641637?text=Hola%20Teo!%20Vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20contactarte!" >
+     <img align="center" src="./WhatsApp.png" alt="WhatsApp" height="30" />
+  </a>
+  <a href="https://instagram.com/teootoledo" >
+     <img align="center" src="./Instagram.png" alt="Instagram" height="30" />
+  </a>
+  <a href="https://discord.gg/teootoledo#1633" >
+     <img align="center" src="./Discord.png" alt="Discord" height="30" />
+  </a>
+</p>
+
+
+
+
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teootoledo&show_icons=true&locale=en&layout=compact" alt="teootoledo" />
+</p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teootoledo&show_icons=true&theme=dark&locale=en" alt="teootoledo" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teootoledo&theme=dark" alt="teootoledo" />
+</p>
+
+
+
+
+
+
+
