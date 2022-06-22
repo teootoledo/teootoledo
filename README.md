@@ -4,7 +4,7 @@
 
 ## Hola, soy Teo! 👋 
 
-Trabajo como desarrollador frontend en _ADOX S.A. 🏢_ y me encuentro estudiando Ingeniería en Sistemas de Información en la _UTN Facultad Regional Buenos Aires_ 📚🇦🇷.
+Trabajo como desarrollador backend en _Koibanx 🏢_ y me encuentro estudiando Ingeniería en Sistemas de Información en la _UTN Facultad Regional Buenos Aires_ 📚🇦🇷.
 
 En mi formación secundaria me especialicé como Técnico Electrónico en la _EEST Nº8 de Haedo 🏫_. En el transcurso de estos años fui enfocando mi carrera al desarrollo de software, siendo este mi principal interés. Busco aprender continuamente y aplicar las nuevas tecnologías disponibles para los proyectos en los que participo.
 
